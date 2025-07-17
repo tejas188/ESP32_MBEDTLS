@@ -1,7 +1,5 @@
 # ESP32 Secure Device Provisioning System
 
-![Project Banner](https://via.placeholder.com/800x200?text=ESP32+Secure+Provisioning)
-
 This firmware enables secure device provisioning for ESP32 microcontrollers, implementing certificate-based authentication and secure communication with backend servers.
 
 ## Features
