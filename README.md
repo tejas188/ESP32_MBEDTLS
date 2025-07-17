@@ -53,3 +53,10 @@ This firmware enables secure device provisioning for ESP32 microcontrollers, imp
 ```plaintext
 CONNECT:<SSID>,<Password>,<ServerIP>,<Port>
 Example: CONNECT:MyWiFi,secret123,192.168.1.100,8443
+
+GKC:<OrganizationName>
+Example: GKC:MyCompany
+.
+.
+.
+.
